@@ -1,0 +1,1 @@
+[![Daily Commit by 23f1000537@ds.study.iitm.ac.in](https://github.com/Nandhini029/email-verification/actions/workflows/daily-commit.yml/badge.svg)](https://github.com/Nandhini029/email-verification/actions/workflows/daily-commit.yml)
